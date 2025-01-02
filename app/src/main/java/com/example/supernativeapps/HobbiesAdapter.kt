@@ -30,7 +30,7 @@ class HobbiesAdapter(val context: Context,val hobbies: List<Hobby>) : RecyclerVi
             itemView.titleTextView.text = hobby!!.title
             itemView.descriptionTextView.text = hobby!!.description
             itemView.cardImageView.setImageResource(R.drawable.man)
-        } //https://youtu.be/HXz6618Zzn8?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV&t=223
+        } //https://youtu.be/HXz6618Zzn8?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV&t=223 REAN TOR
     }
 
 }
